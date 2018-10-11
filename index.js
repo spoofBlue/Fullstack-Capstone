@@ -1,4 +1,4 @@
  
  console.log('Hello World');
 
- window.location.replace("./public/landing-page.html");
+ window.location.replace("./landing-page.html");
