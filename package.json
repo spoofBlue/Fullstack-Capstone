@@ -1,0 +1,31 @@
+{
+    "name": "fullstack-capstone",
+    "version": "1.0.0",
+    "description": "Project to apply my knowledge of HTML,CSS,Javascript,Node,Express,React,React-Redux",
+    "main": "landing-page.html",
+    "scripts": {
+        "start": "landing-page.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/spoofBlue/Fullstack-Capstone.git"
+    },
+    "keywords": [
+        "Javascript",
+        "Node",
+        "Express",
+        "Mongo",
+        "React",
+        "React-Redux"
+    ],
+    "author": "Cory Nanni",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/spoofBlue/Fullstack-Capstone/issues"
+    },
+    "homepage": "https://github.com/spoofBlue/Fullstack-Capstone#readme",
+    "dependencies": {
+        "express": "^4.16.4",
+        "node": "^10.11.0"
+    }
+}
