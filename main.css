@@ -1,0 +1,57 @@
+
+* {
+    margin : 0;
+    box-sizing : border-box;
+}
+
+header {
+    display : block;
+    text-align : center;
+}
+
+main {
+    /*min-height : 200px;*/
+    padding : 0;
+    background-color : grey;
+}
+
+section {
+    padding : 10px;
+    height : 200px;
+    background-color : lightgrey;
+}
+
+#about-our-site-icon {
+    position : absolute;
+    top : 0;
+    left : 0;
+}
+
+#dropdown-icon {
+    position : absolute;
+    top : 0;
+    right : 0;
+}
+
+a {
+    color : blue;
+}
+
+.light-grey {
+    background-color : lightgrey;
+}
+
+.grey {
+    background-color : grey;
+}
+
+.dark-grey {
+    background-color : rgb(60, 60, 60);
+}
+
+footer {
+    display : block;
+    position : fixed;
+    bottom : 0;
+    background-color : rgb(60, 60, 60);
+}
